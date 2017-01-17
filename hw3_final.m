@@ -1,5 +1,5 @@
 %Robust multi-model homography estimation and virtual insertion of planar objects
-%By Yuncun Shen
+
 %Using VLFeat library, http://www.vlfeat.org/
 %See sample results at http://www.youtube.com/watch?v=YmCKqXfdJ8w&feature=youtube_gdata
 
